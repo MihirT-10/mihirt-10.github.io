@@ -1,6 +1,6 @@
 # Collection of Personal and Group Projects, ranging from Research Papers to Data Driven Analyses and Visualizations
 
-##In Progress portfolio website design
+## In Progress portfolio website design
 
 By Mihir Thakar
 
