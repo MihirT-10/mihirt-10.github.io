@@ -4,7 +4,7 @@
 
 By Mihir Thakar
 
-*Disclaimer if you are looking to just view the Jupyter Notebooks and run into the "Your Notebook took too long to render" error,
+* Disclaimer if you are looking to just view the Jupyter Notebooks and run into the "Your Notebook took too long to render" error,
 you can use the following link https://nbviewer.org to paste the file permalink and view on on this web application
 
 
