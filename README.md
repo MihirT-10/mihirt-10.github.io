@@ -27,10 +27,3 @@ Sports Stats: Personal Project Analysis on most tumultous NFL team between 2010-
 ### Fall 2021
 
 GA Voting Project_Final Draft: Scalable Spatial Analytics Final Paper 
-
-### Other
-
-Autonomous Transshipment Corridor Design: Undergrad Senior Design Project Final Paper Spring 2020
-
-Transportation Impact Study Fall 2020
-
